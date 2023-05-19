@@ -1,4 +1,4 @@
-# Disemvowel Troslls 
+# Disemvowel Trolls 
 
 Training for the TDD, part of Jaguars training at IBM 
 
