@@ -1,7 +1,7 @@
 const { disemvowel } = require("../src/index");
 
 describe("disemvowel", () => {
-  test("test disemvowel", () => {
-    expect(disemvowel(0)).toBe(true);
+  test("it should have an input as string and return a string as output", () => {
+    expect(disemvowel("something")).toBe("something");
   });
 });

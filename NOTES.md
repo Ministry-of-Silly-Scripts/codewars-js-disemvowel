@@ -25,4 +25,5 @@ Note: for this kata `y` isn't considered a vowel.
 TODO:
 
 # Pomodoro 1 🍅:
-- initial setup (organize function name and domain)
+- initial setup (organize function name and domain) ✅
+- it should have an string as input and return a string as output ✅
