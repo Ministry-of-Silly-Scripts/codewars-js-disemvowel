@@ -12,6 +12,12 @@ For example, the string "This website is for losers LOL!" would become "Ths wbst
 
 Note: for this kata `y` isn't considered a vowel.
 
+## Domain:
+- input: string
+- output: string
+- businness rules:
+    - the output should be equal to the input but with the vowels removed
+    - it does not matter if the letter is upper or lower case
 
 **Label**  
 ✅ done 🚧 WIP ❌ ERROR
@@ -19,3 +25,4 @@ Note: for this kata `y` isn't considered a vowel.
 TODO:
 
 # Pomodoro 1 🍅:
+- initial setup (organize function name and domain)

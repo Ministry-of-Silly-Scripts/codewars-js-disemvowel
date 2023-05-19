@@ -1,5 +1,5 @@
-const placeholder = () => true;
+const disemvowel = () => true;
 
 module.exports = {
-  placeholder,
+  disemvowel,
 };
