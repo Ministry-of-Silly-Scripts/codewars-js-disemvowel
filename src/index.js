@@ -1,5 +1,7 @@
 const disemvowel = (str) => {
-  return str
+  var outStr = str.replaceAll("a", "")
+
+  return outStr
 };
 
 module.exports = {
