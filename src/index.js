@@ -1,6 +1,14 @@
 const disemvowel = (str) => {
-  var outStr = str.replaceAll("a", "")
-  outStr = outStr.replaceAll("e", "")
+  vowels = ["a", "e"]
+  capitalVowels = ["A", "E"]
+
+  let outStr = str
+
+  for (let ch of str) {
+    if (vowels.includes(ch) || capitalVowels.includes(ch)) {
+      outStr = outStr.replaceAll(ch, "")
+    }
+  }
   return outStr
 };
 
