@@ -28,3 +28,5 @@ TODO:
 - initial setup (organize function name and domain) ✅
 - it should have an string as input and return a string as output ✅
 - it should have an string with the letter "a" as input and return a string without it ✅
+- it should have an string with the letter "e" as input and return a string without it 
+    - OBS: the first two tests lost their importance, therefore where removed ✅
