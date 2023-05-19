@@ -1,8 +1,8 @@
-# Vowel Count kata (Jaguars)
+# Disemvowel Troslls 
 
-Vowel Count kata performed by the Jaguars cohort
+Training for the TDD, part of Jaguars training at IBM 
 
-[Vowel Count on CodeWars](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
+[Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e/train/javascript)
 
 ## Prerequisites
 
